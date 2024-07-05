@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "devStart": "node app.js"
+    "devStart": "node app.js",
+    "build": "echo 'No build step required'"
   },
   "keywords": [],
   "author": "",
